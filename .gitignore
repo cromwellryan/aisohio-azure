@@ -1,3 +1,9 @@
+bin
+obj
+node_modules
+.ssh
+npm-debug.log
 
-bin/
-node_modules/
+## Azure Packages
+*.cspkg
+
